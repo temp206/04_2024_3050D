@@ -21,3 +21,6 @@ target/
 
 # Logs
 *.log
+
+# git files
+.lesshst
